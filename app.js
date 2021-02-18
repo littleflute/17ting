@@ -1,3 +1,3 @@
 module.exports = function(){
-  return 'Hello ci test.';
+  return 'Hello ci test1.';
 }
