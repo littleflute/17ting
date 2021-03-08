@@ -28,3 +28,4 @@ jobs:
     - name: ci
       working-directory: ./node
       run: npm ci 
+      run: npm test
