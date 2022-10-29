@@ -3,6 +3,6 @@ const app = require('../app');
 
 describe('App', function(){
   it('test1', function(){
-    assert.equal(app(),'test1-index.html');
+    assert.equal(app(),'test1');
   });
 });
